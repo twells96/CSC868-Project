@@ -1,0 +1,5 @@
+Product_UPC: 12A4, Text_Description: Candy, Product_Price: 2.00
+Product_UPC: 369E, Text_Description: A yellow pencil, Product_Price: 1.23
+Product_UPC: 6B71, Text_Description: A notebook with 32 pages, Product_Price: 15.00
+Product_UPC: 1C38, Text_Description: A brown hat, Product_Price: 25.75
+Product_UPC: 09D7, Text_Description: A brown coat, Product_Price: 36.00

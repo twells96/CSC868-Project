@@ -1,0 +1,5 @@
+Customer_name: Hunter, Customer_purchase: 1C38, Customer_purchase_quantity: 1
+Customer_name: Hunter, Customer_purchase: 09D7, Customer_purchase_quantity: 1
+Customer_name: Karen, Customer_purchase: A945, Customer_purchase_quantity: 1
+Customer_name: Alice, Customer_purchase: 369E, Customer_purchase_quantity: 3
+Customer_name: Alice, Customer_purchase: 6B71, Customer_purchase_quantity: 1
